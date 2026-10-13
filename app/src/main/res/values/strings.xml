@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BUSHRA AI</string>
+    <string name="app_tagline">Your Intelligent Personal AI Assistant</string>
+    <string name="welcome_title">Welcome to BUSHRA AI</string>
+    <string name="welcome_subtitle">Experience next-generation AI conversations, real-time voice, and adaptive intelligence.</string>
+    <string name="get_started">Get Started</string>
+    <string name="tab_chat">Chat</string>
+    <string name="tab_voice">Voice</string>
+    <string name="tab_history">History</string>
+    <string name="tab_settings">Settings</string>
+    <string name="new_conversation">New Chat</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="mic_listening">Listening to you...</string>
+    <string name="ai_processing">Bushra is thinking...</string>
+    <string name="ai_speaking">Bushra is speaking...</string>
+    <string name="unconfigured_provider">AI provider not configured. Add your API key in Settings to continue.</string>
+    <string name="voice_session_ended">Voice session ended</string>
+    <string name="microphone_permission_rationale">BUSHRA AI requires microphone access to enable real-time voice conversations and voice transcription.</string>
+</resources>
